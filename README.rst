@@ -36,7 +36,7 @@ Or from Github::
 
     $ git clone https://github.com/bcj/AttrDict
     $ cd AttrDict
-    $ python setup.py install
+    $ pip install .
 
 Basic Usage
 ===========
